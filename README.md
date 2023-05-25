@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a data scientist and software engineer. I currently live in Baltimore Maryland. I am interested more in data science roles right now with companies either full time or contract positions.
+I am a data scientist and software engineer.
+
+* 🌍  I'm based in Baltimore, MD
+* 🖥️  See my portfolio at [ArielMercedesTech](http://arielmercedestech.com)
+* ✉️  You can contact me at [arielmercedestech@gmail.com](mailto:arielmercedestech@gmail.com)
+* 🤝  I'm open to collaborating on Data Science Projects
 
 
 ## 🌐 Socials:
